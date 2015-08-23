@@ -1,0 +1,17 @@
+h3 {
+    color: #3a6d8c;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: normal;
+    margin: 0 0 8px 0;
+}
+
+img {
+    border: 0;
+}
+
+#container {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 800px;
+}
